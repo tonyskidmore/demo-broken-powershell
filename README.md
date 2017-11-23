@@ -12,5 +12,6 @@ To execute the code from a Linux (or in Windows use powershell instead of pwsh) 
 ```
 git clone https://github.com/tonyskidmore/demo-broken-powershell.git
 cd demo-broken-powershell
-pwsh ./Write-Hello.ps1
+pwsh 
+./Write-Hello.ps1
 ```
